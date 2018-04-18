@@ -7,9 +7,6 @@
 ## Install i3 Gaps
     ./install_i3_gaps.sh
 
-## Install Fonts
-    ./install_ibm_fonts.sh
-
 ### Add config for i3 gaps
     echo 'for_window [class="^.*"] border pixel 0\ngaps inner 15\ngaps outer 15' >> ~/.config/i3/config
 
@@ -21,16 +18,17 @@
       status_command i3blocks
     }
 
-
-## Install ZSH
-    sudo apt install zsh
-    sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
-
 ### Add config file for i3blocks
     mkdir ~/.config/i3blocks
 
     cp /etc/i3blocks.conf ~/.config/i3blocks/config
 
+## Install ZSH
+    sudo apt install zsh
+    sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+
+## Install Fonts
+    ./install_ibm_fonts.sh
 
 ## Install Arc Theme
     sudo apt install arc-theme
@@ -46,7 +44,7 @@
 ## Install Lxappearance
     sudo apt install lxappearance
 
-### Open lxappearance and select the new theme and icons
+#### Open lxappearance and select the new theme and icons
 
 ## Install audio controls
     sudo apt install pavucontrol

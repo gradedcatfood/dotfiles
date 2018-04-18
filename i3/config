@@ -166,7 +166,9 @@ bar {
     tray_output primary
     colors {
             background $bg-color
-            separator #757575
+            separator  #757575
+            statusline #eeeeee
+
             #                  border             background         text
             focused_workspace  $bg-color          $bg-color          $text-color
             inactive_workspace $inactive-bg-color $inactive-bg-color $inactive-text-color
@@ -193,6 +195,3 @@ bindsym $mod+shift+x exec i3lock -i /home/mmillis/Pictures/lock.png
 
 exec compton -f --config ~/.config/compton/config
 exec feh --randomize --bg-fill /home/mmillis/Pictures/*
-
-
-
