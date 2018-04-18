@@ -33,7 +33,6 @@
 
 
 ## Install Arc Theme
-    sudo apt update
     sudo apt install arc-theme
 
 ## Install Icons
