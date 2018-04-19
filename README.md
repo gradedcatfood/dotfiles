@@ -49,5 +49,8 @@
 ## Install audio controls
     sudo apt install pavucontrol
 
+## Install imwheel
+sudo install imwheel
+
 ## Add images for lock screen
     wget http://i.imgur.com/qY1nKlP.png -O lock.png; mv lock.png ~/Pictures/
