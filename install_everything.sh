@@ -1,3 +1,5 @@
+echo "RUN THIS IN DOWNLOADS FOLDER"
+
 sudo apt update
 sudo apt install i3
 
