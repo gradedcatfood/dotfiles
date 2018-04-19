@@ -24,7 +24,7 @@ mkdir -p build && cd build/
 ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
 make
 sudo make install
-cd ~/Downloads
+cd ~/Downloads/
 rm -rf tmp
 
 mkdir tmp
@@ -44,6 +44,8 @@ sudo cp -r /home/$USER/Downloads/tmp/plex/IBM-Plex-Serif/fonts/complete/ttf /usr
 sudo mv /usr/share/fonts/truetype/ttf /usr/share/fonts/truetype/ibm-plex-serif
 cd /usr/share/fonts/truetype/ibm-plex-serif
 sudo chmod 644 ./*
+
+cd ~/Downloads/
 
 fc-cache -f -v
 
