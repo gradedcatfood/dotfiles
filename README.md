@@ -29,6 +29,7 @@
 
 ## Install Fonts
     ./install_ibm_fonts.sh
+    sudo apt install fonts-font-awesome
 
 ## Install Arc Theme
     sudo apt install arc-theme
@@ -50,7 +51,7 @@
     sudo apt install pavucontrol
 
 ## Install imwheel
-sudo install imwheel
+    sudo install imwheel
 
 ## Add images for lock screen
     wget http://i.imgur.com/qY1nKlP.png -O lock.png; mv lock.png ~/Pictures/

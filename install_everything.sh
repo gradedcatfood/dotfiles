@@ -75,3 +75,5 @@ sudo snap install spotify
 sudo apt install thunar
 
 sudo apt install imwheel
+
+sudo apt install fonts-font-awesome
