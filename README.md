@@ -49,6 +49,9 @@
 
 ## Install audio controls
     sudo apt install pavucontrol
+    
+    # Get this too
+    https://github.com/acrisci/playerctl/releases
 
 ## Install imwheel
     sudo apt install imwheel

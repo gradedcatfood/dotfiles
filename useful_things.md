@@ -23,3 +23,7 @@
 
     xrandr # to get OUTPUT name and MODE is just 1920x1080 or w/e
     xrandr --output OUTPUT --mode MODE
+
+
+## Cava for those sick tunes
+https://github.com/karlstav/cava#ubuntu
