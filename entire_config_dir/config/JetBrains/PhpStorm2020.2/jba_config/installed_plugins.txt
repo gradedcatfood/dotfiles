@@ -1,0 +1,16 @@
+com.alicannklc.laravel.snippets
+ru.adelf.idea.dotenv
+com.smartbit8.laravelStorm.intellij
+com.daylerees.rainglow
+com.mallowigi
+tv.twelvetone.intellij.plugins.intellivue
+org.jetbrains.plugins.rest
+com.laravel_idea.plugin
+com.samdark.intellij-visual-studio-code-dark-plus
+com.thvardhan.gradianto
+com.berzanmikaili.intellij.monokai_pro
+com.markskelton.one-dark-theme
+org.jetbrains.plugins.node-remote-interpreter
+com.myoutdesk.tailwind_formatter
+intellij.prettierJS
+me.mbolotov.cypress

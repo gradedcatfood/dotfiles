@@ -1,0 +1,82 @@
+<templateSet group="Bulma">
+  <template name="btext" value="&lt;div class=&quot;field&quot;&gt;&#10;  &lt;label class=&quot;label&quot; for=&quot;$NAME$&quot;&gt;$PRETTY_NAME$&lt;/label&gt;&#10;  &lt;div class=&quot;control&quot;&gt;&#10;    &lt;input id=&quot;$NAME$&quot; class=&quot;input&quot; type=&quot;text&quot; name=&quot;$NAME$&quot; placeholder=&quot;$PRETTY_NAME$&quot;&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Input Field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bselect" value="&lt;div class=&quot;field&quot;&gt;&#10;  &lt;label class=&quot;label&quot; for=&quot;$NAME$&quot;&gt;$PRETTY_NAME$&lt;/label&gt;&#10;  &lt;div class=&quot;control&quot;&gt;&#10;    &lt;div class=&quot;select&quot;&gt;&#10;      &lt;select id=&quot;$NAME$&quot; name=&quot;$NAME$&quot;&gt;&#10;        &lt;option&gt;$END$&lt;/option&gt;&#10;      &lt;/select&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Select Field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="btextarea" value="&lt;div class=&quot;field&quot;&gt;&#10;  &lt;label class=&quot;label&quot; for=&quot;$NAME$&quot;&gt;$PRETTY_NAME$&lt;/label&gt;&#10;  &lt;div class=&quot;control&quot;&gt;&#10;    &lt;textarea id=&quot;$NAME$&quot; class=&quot;textarea&quot; name=&quot;$NAME$&quot; placeholder=&quot;$NAME$&quot;&gt;&lt;/textarea&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;&#10;" description="Bulma Text Area Field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bcheckbox" value="&lt;div class=&quot;field&quot;&gt;&#10;  &lt;div class=&quot;control&quot;&gt;&#10;    &lt;label class=&quot;checkbox&quot;&gt;&#10;      &lt;input id=&quot;$NAME$&quot; type=&quot;checkbox&quot; name=&quot;$NAME$&quot;&gt;&#10;      $PRETTY_NAME$&#10;    &lt;/label&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Checkbox" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bradio" value="&lt;div class=&quot;field&quot;&gt;&#10;  &lt;div class=&quot;control&quot;&gt;&#10;    &lt;label class=&quot;radio&quot;&gt;&#10;      &lt;input type=&quot;radio&quot; name=&quot;$NAME$&quot;&gt;&#10;      Yes&#10;    &lt;/label&gt;&#10;    &lt;label class=&quot;radio&quot;&gt;&#10;      &lt;input type=&quot;radio&quot; name=&quot;$NAME$&quot;&gt;&#10;      No&#10;    &lt;/label&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Radio Field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bsubmit" value="&lt;div class=&quot;control&quot;&gt;&#10;  &lt;button class=&quot;button is-primary&quot; type=&quot;submit&quot;&gt;Submit&lt;/button&gt;&#10;&lt;/div&gt;" description="Bulma Submit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bcard" value="&lt;div class=&quot;card&quot;&gt;&#10;  &lt;header class=&quot;card-header&quot;&gt;&#10;    &lt;p class=&quot;card-header-title&quot;&gt;&#10;      $NAME$&#10;    &lt;/p&gt;&#10;  &lt;/header&gt;&#10;  &lt;div class=&quot;card-content&quot;&gt;&#10;    &lt;div class=&quot;content&quot;&gt;&#10;        $END$&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Card" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="btexthor" value="&lt;div class=&quot;field is-horizontal&quot;&gt;&#10;  &lt;div class=&quot;field-label is-normal&quot;&gt;&#10;    &lt;label class=&quot;label&quot; for=&quot;$NAME$&quot;&gt;$PRETTY_NAME$&lt;/label&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;field-body&quot;&gt;&#10;    &lt;div class=&quot;field&quot;&gt;&#10;       &lt;div class=&quot;control&quot;&gt;&#10;          &lt;input id=&quot;$NAME$&quot; class=&quot;input&quot; type=&quot;text&quot; name=&quot;$NAME$&quot; placeholder=&quot;$PRETTY_NAME$&quot;&gt;&#10;       &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Input Field Horizontal" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bselecthor" value="&lt;div class=&quot;field is-horizontal&quot;&gt;&#10;  &lt;div class=&quot;field-label is-normal&quot;&gt;&#10;    &lt;label class=&quot;label&quot; for=&quot;$NAME$&quot;&gt;$PRETTY_NAME$&lt;/label&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;field-body&quot;&gt;&#10;    &lt;div class=&quot;field is-narrow&quot;&gt;&#10;      &lt;div class=&quot;control&quot;&gt;&#10;        &lt;div class=&quot;select is-fullwidth&quot;&gt;&#10;           &lt;select id=&quot;$NAME$&quot; name=&quot;$NAME$&quot;&gt;&#10;             &lt;option&gt;$END$&lt;/option&gt;&#10;           &lt;/select&gt;&#10;        &lt;/div&gt;&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Select Field Horizontal" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bradiohor" value="&lt;div class=&quot;field is-horizontal&quot;&gt;&#10;  &lt;div class=&quot;field-label&quot;&gt;&#10;    &lt;label class=&quot;label&quot;&gt;name=&quot;$PRETTY_NAME$&quot;&lt;/label&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;field-body&quot;&gt;&#10;    &lt;div class=&quot;field is-narrow&quot;&gt;&#10;      &lt;div class=&quot;control&quot;&gt;&#10;        &lt;label class=&quot;radio&quot;&gt;&#10;          &lt;input type=&quot;radio&quot; name=&quot;$NAME$&quot;&gt;&#10;          Yes&#10;        &lt;/label&gt;&#10;        &lt;label class=&quot;radio&quot;&gt;&#10;          &lt;input type=&quot;radio&quot; name=&quot;$NAME$&quot;&gt;&#10;          No&#10;        &lt;/label&gt;&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Radio Field Horizontal" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="btextareahor" value="&lt;div class=&quot;field is-horizontal&quot;&gt;&#10;  &lt;div class=&quot;field-label is-normal&quot;&gt;&#10;    &lt;label class=&quot;label&quot; for=&quot;$NAME$&quot;&gt;$PRETTY_NAME$&lt;/label&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;field-body&quot;&gt;&#10;    &lt;div class=&quot;field&quot;&gt;&#10;      &lt;div class=&quot;control&quot;&gt;&#10;        &lt;textarea id=&quot;$NAME$&quot; class=&quot;textarea&quot; name=&quot;$NAME$&quot; placeholder=&quot;$NAME$&quot;&gt;&lt;/textarea&gt;&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="Bulma Text Area Field Horizontal" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bcheckboxhor" value="&lt;div class=&quot;field is-horizontal&quot;&gt;&#10;  &lt;div class=&quot;field-label&quot;&gt;&#10;    &lt;label class=&quot;label&quot;&gt;$PRETTY_NAME$&lt;/label&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;field-body&quot;&gt;&#10;    &lt;div class=&quot;field&quot;&gt;&#10;      &lt;div class=&quot;control&quot;&gt;&#10;        &lt;label class=&quot;checkbox&quot;&gt;&#10;          &lt;input id=&quot;$NAME$&quot; type=&quot;checkbox&quot; name=&quot;$NAME$&quot;&gt;&#10;          $END$&#10;        &lt;/label&gt;&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;&#10;" description="Bulma Checkbox Horizontal" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRETTY_NAME" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

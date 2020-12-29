@@ -1,0 +1,8 @@
+2020/11/30-19:01:55.987 5986 Reusing MANIFEST /home/mmillis/.config/google-chrome/Default/IndexedDB/https_uci.secretservercloud.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-19:01:55.988 5986 Recovering log #16
+2020/11/30-19:01:55.988 5986 Reusing old log /home/mmillis/.config/google-chrome/Default/IndexedDB/https_uci.secretservercloud.com_0.indexeddb.leveldb/000016.log 
+2020/11/30-19:01:57.995 751f Level-0 table #20: started
+2020/11/30-19:01:57.996 751f Level-0 table #20: 0 bytes OK
+2020/11/30-19:01:58.007 751f Delete type=0 #16
+2020/11/30-19:01:58.008 751f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/30-19:01:58.008 751f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

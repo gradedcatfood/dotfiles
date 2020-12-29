@@ -1,0 +1,23 @@
+[2020-11-07 09:47:40.000] [sharedprocess] [info] main {"machineId":"c814f0d776b9e1da49dba2b205b3478e0a2f589c53d5646c2d0873a55d395a36","windowId":2}
+[2020-11-07 09:47:40.402] [sharedprocess] [info] Deleted from disk mohamedbenhida.laravel-intellisense /home/mmillis/.vscode/extensions/mohamedbenhida.laravel-intellisense-0.1.8
+[2020-11-07 09:47:40.699] [sharedprocess] [info] Deleted from disk stef-k.laravel-goto-controller /home/mmillis/.vscode/extensions/stef-k.laravel-goto-controller-0.0.7
+[2020-11-07 09:47:41.252] [sharedprocess] [info] Deleted from disk ms-python.python /home/mmillis/.vscode/extensions/ms-python.python-2020.9.112786
+[2020-11-07 09:47:43.046] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2020-11-07 09:47:43.047] [sharedprocess] [info] Installing extension: octref.vetur
+[2020-11-07 09:47:43.047] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-11-07 09:47:44.164] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/mmillis/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.4.0
+[2020-11-07 09:47:45.283] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense /home/mmillis/.config/Code/CachedExtensionVSIXs/amiralizadeh9480.laravel-extra-intellisense-0.4.0
+[2020-11-07 09:47:45.595] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.amiralizadeh9480.laravel-extra-intellisense-0.4.0: amiralizadeh9480.laravel-extra-intellisense
+[2020-11-07 09:47:45.595] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.4.0
+[2020-11-07 09:47:45.597] [sharedprocess] [info] Installation completed. amiralizadeh9480.laravel-extra-intellisense
+[2020-11-07 09:47:45.650] [sharedprocess] [info] Extensions installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2020-11-07 09:47:45.797] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.pkief.material-icon-theme-4.4.0: pkief.material-icon-theme
+[2020-11-07 09:47:45.797] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/pkief.material-icon-theme-4.4.0
+[2020-11-07 09:47:45.798] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-11-07 09:47:45.806] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-11-07 09:48:13.053] [sharedprocess] [info] Downloaded extension: octref.vetur /home/mmillis/.config/Code/CachedExtensionVSIXs/octref.vetur-0.29.0
+[2020-11-07 09:48:20.041] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-11-07 09:48:25.891] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.octref.vetur-0.29.0: octref.vetur
+[2020-11-07 09:48:25.891] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/octref.vetur-0.29.0
+[2020-11-07 09:48:25.894] [sharedprocess] [info] Installation completed. octref.vetur
+[2020-11-07 09:48:25.933] [sharedprocess] [info] Extensions installed successfully: octref.vetur

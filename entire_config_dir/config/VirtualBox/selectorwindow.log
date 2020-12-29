@@ -1,0 +1,18 @@
+VirtualBox GUI VM Selector Window 5.2.42_Ubuntu r137960 linux.amd64 (Jun  5 2020 08:26:08) release log
+00:00:00.454697 Log opened 2020-11-18T04:37:38.633787000Z
+00:00:00.454698 Build Type: release
+00:00:00.454700 OS Product: Linux
+00:00:00.454701 OS Release: 5.4.0-52-generic
+00:00:00.454702 OS Version: #57~18.04.1-Ubuntu SMP Thu Oct 15 14:04:49 UTC 2020
+00:00:00.454720 DMI Product Name: OptiPlex 7040
+00:00:00.454727 DMI Product Version: 
+00:00:00.454760 Host RAM: 15897MB (15.5GB) total, 10504MB (10.2GB) available
+00:00:00.454763 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.454763 Process ID: 26300
+00:00:00.454764 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.454781 Qt version: 5.9.5
+00:00:00.470026 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.470040 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.472265 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.472275 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.618845 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1287x24 x 626x1350

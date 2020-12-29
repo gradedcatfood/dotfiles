@@ -1,0 +1,8 @@
+2020/09/24-22:56:17.882 ea6 Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.solarwinds.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-22:56:17.883 ea6 Recovering log #4
+2020/09/24-22:56:17.883 ea6 Reusing old log /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.solarwinds.com_0.indexeddb.leveldb/000004.log 
+2020/09/24-22:56:51.555 747 Level-0 table #8: started
+2020/09/24-22:56:51.555 747 Level-0 table #8: 0 bytes OK
+2020/09/24-22:56:51.566 747 Delete type=0 #4
+2020/09/24-22:56:51.566 747 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/24-22:56:51.566 747 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

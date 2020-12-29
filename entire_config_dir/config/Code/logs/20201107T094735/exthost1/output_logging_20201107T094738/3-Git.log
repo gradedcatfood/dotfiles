@@ -1,0 +1,57 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mmillis/Code/mmillis/drag-logbook
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tailwind
+> git rev-parse --symbolic-full-name tailwind@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right tailwind...refs/remotes/origin/tailwind
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s 816c03ffa8324aebd69732f17e0e58b526107601
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tailwind
+> git rev-parse --symbolic-full-name tailwind@{u}
+> git rev-list --left-right tailwind...refs/remotes/origin/tailwind
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tailwind
+> git rev-parse --symbolic-full-name tailwind@{u}
+> git rev-list --left-right tailwind...refs/remotes/origin/tailwind
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tailwind
+> git rev-parse --symbolic-full-name tailwind@{u}
+> git rev-list --left-right tailwind...refs/remotes/origin/tailwind
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tailwind
+> git rev-parse --symbolic-full-name tailwind@{u}
+> git rev-list --left-right tailwind...refs/remotes/origin/tailwind
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tailwind
+> git rev-parse --symbolic-full-name tailwind@{u}
+> git rev-list --left-right tailwind...refs/remotes/origin/tailwind
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,92 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="14.8.0" last-modified="1597156892000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/npx">
+      <version-cache version="6.14.7" last-modified="1586293177000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Roboto" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="15" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1fyodHGFcm0GBqMnaEbfTzzkpMy">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1iIzUDueNOvG4B4ns8T4X65W0BA">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1loPvuASYYF9a8V4vlgrNmjwNCD">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.36371604" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7373272" />
+    <property name="CypressTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="CypressTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="CypressTestRunnerSupport.scrollToSource" value="true" />
+    <property name="CypressTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spell chec&#10;polymor&#10;all tag&#10;unhan&#10;full" />
+    <property name="InstalledPluginsSearchHistory" value="tinker&#10;tinke&#10;tin&#10;ti&#10;t" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="delete&#10;end of&#10;reopen&#10;close&#10;close tab" />
+    <property name="MarketplacePluginsSearchHistory" value="tinker&#10;cypress&#10;cypret&#10;c&#10;orchi" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitPromotionState" value="REJECTED" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpUnitSupport.hidePassedTests" value="false" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.29539296" />
+    <property name="SettingsSearchHistory" value="font&#10;font size&#10;plugin&#10;plugins&#10;live tem" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="PS-203.5981.175-86ed572309528342f20fc4cf31d841c6760f6c7e10705ebddd2d4c04a90c370b" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="clt.was.used.run.anything.ui" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$CreateObject$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="dir.diff.panel.divider.location" value="391" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt3.193" value="19" />
+    <property name="evlsprt3.202" value="17" />
+    <property name="evlsprt3.203" value="17" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/sa/orientation/database/database.sqlite&#10;/home/mmillis/Projects/packages/laravel_sftp_proxy&#10;/home/mmillis/Code/mmillis/draglogbook&#10;/home/mmillis/Projects/sa/services&#10;/home/mmillis/Code/mmillis/drag-logbook/cypress/integration&#10;/home/mmillis/Code/mmillis/drag-logbook&#10;/home/mmillis/Code/mmillis/drag-logbook/database/database.sqlite&#10;/usr/bin/npx&#10;/usr/bin&#10;/home/mmillis/Code/mmillis/jestream-js-mmillis&#10;/home/mmillis/Code/mmillis/jetstream-js&#10;/home/mmillis/Code/mmillis/dotfiles&#10;/home/mmillis/Code/laravel/laravel8-jet&#10;/home/mmillis/Code/laravel/laravel8-jet/app/Http/Controllers&#10;/home/mmillis/Code/laravel/laravel8&#10;/home/mmillis/Projects/sa/orientation&#10;/home/mmillis/Projects/ssl/www.orientation.uci.edu&#10;/home/mmillis/Code/yolo/rock-gaz&#10;/home/mmillis/Code/yolo/yolo-ssl&#10;/home/mmillis/Code/yolo/server240.com&#10;/home/mmillis/Code/yolo/rock-wp&#10;/home/mmillis/Code/yolo/trellis-gaz.com&#10;/home/mmillis/Code/Library/wordpress&#10;/home/mmillis/Code/yolo/gaz&#10;/home/mmillis/Code/laravel/jetstream&#10;/home/mmillis/Code/laravel/laravel8-jet-again&#10;/home/mmillis/Code/playground/blog" />
+    <property name="file.gist.reindex.count" value="208" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PS-203.5981.175" />
+    <property name="lastSeenTip" value="neue-CtrlShiftI.html" />
+    <property name="lastTimeTipsWereShown" value="1598849780287" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/sa/orientation/database/database.sqlite" />
+    <property name="seenTips" value="neue-GoToDeclaration.html,neue-DragToOpen.html,neue-local_history.html,neue-FindReplaceToggle.html,neue-CtrlShiftI.html" />
+    <property name="selected.color.option.type" value="WRONG_REFERENCES_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.PHP" value="Arrangement" />
+    <property name="shared.index.infrastructure.prop" value="4" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.0.3" />
+    <property name="tv.twelvetone.intellij.common.device-id" value="2dc74f6b-157a-40d2-abed-2eaf6d7f87f2" />
+    <property name="tv.twelvetone.intellij.plugins.intellivue.usage-counts" value="{&quot;productVersion&quot;:&quot;1.1.0&quot;,&quot;product&quot;:&quot;intellivue&quot;,&quot;source&quot;:&quot;2dc74f6b-157a-40d2-abed-2eaf6d7f87f2&quot;,&quot;lastSent&quot;:1608767625195,&quot;features&quot;:{}}" />
+    <property name="wordPress.support.wordPressPath" value="$USER_HOME$/Code/Library/wordpress" />
+  </component>
+</application>

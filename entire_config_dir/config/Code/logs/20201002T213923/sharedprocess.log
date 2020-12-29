@@ -1,0 +1,14 @@
+[2020-10-02 21:39:27.208] [sharedprocess] [info] main {"machineId":"c814f0d776b9e1da49dba2b205b3478e0a2f589c53d5646c2d0873a55d395a36","windowId":2}
+[2020-10-02 21:39:28.958] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2020-10-02 21:39:28.960] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-10-02 21:39:29.371] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense /home/mmillis/.config/Code/CachedExtensionVSIXs/amiralizadeh9480.laravel-extra-intellisense-0.3.4
+[2020-10-02 21:39:29.396] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.amiralizadeh9480.laravel-extra-intellisense-0.3.4: amiralizadeh9480.laravel-extra-intellisense
+[2020-10-02 21:39:29.397] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.3.4
+[2020-10-02 21:39:29.397] [sharedprocess] [info] Installation completed. amiralizadeh9480.laravel-extra-intellisense
+[2020-10-02 21:39:29.412] [sharedprocess] [info] Extensions installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2020-10-02 21:39:30.346] [sharedprocess] [info] Downloaded extension: ms-python.python /home/mmillis/.config/Code/CachedExtensionVSIXs/ms-python.python-2020.9.112786
+[2020-10-02 21:39:33.129] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.ms-python.python-2020.9.112786: ms-python.python
+[2020-10-02 21:39:33.129] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/ms-python.python-2020.9.112786
+[2020-10-02 21:39:33.133] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-10-02 21:39:33.178] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-10-02 21:40:07.219] [sharedprocess] [info] Starting to clean up unused language packs.

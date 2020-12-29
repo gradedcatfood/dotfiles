@@ -1,0 +1,48 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$SelectAll">
+        <ActionSummary times="4" last="1599942048672" />
+      </entry>
+      <entry key="Console.TableResult.AddRow">
+        <ActionSummary times="6" last="1599105318968" />
+      </entry>
+      <entry key="Console.TableResult.DeleteRows">
+        <ActionSummary times="4" last="1599105328265" />
+      </entry>
+      <entry key="Console.TableResult.Reload">
+        <ActionSummary times="12" last="1599195688746" />
+      </entry>
+      <entry key="Console.TableResult.Submit">
+        <ActionSummary times="10" last="1599105324866" />
+      </entry>
+      <entry key="DatabaseView.AddActionGroupPopup">
+        <ActionSummary times="2" last="1599891435005" />
+      </entry>
+      <entry key="DatabaseView.PropertiesAction">
+        <ActionSummary times="2" last="1598933827518" />
+      </entry>
+      <entry key="DatabaseView.Refresh">
+        <ActionSummary times="8" last="1599103131493" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="2" last="1599104216111" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="4" last="1598933820191" />
+      </entry>
+      <entry key="EditorPreviousWord">
+        <ActionSummary times="2" last="1598933831056" />
+      </entry>
+      <entry key="com.intellij.database.actions.DdlActions$CreateObject">
+        <ActionSummary times="1" last="1599942038099" />
+      </entry>
+      <entry key="com.intellij.database.dataSource.LocalDataSourceManager$2">
+        <ActionSummary times="2" last="1599891438584" />
+      </entry>
+      <entry key="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
+        <ActionSummary times="3" last="1599105323641" />
+      </entry>
+    </data>
+  </component>
+</application>

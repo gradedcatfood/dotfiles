@@ -1,0 +1,50 @@
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 1
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 2
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 3
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 4
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 5
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 6
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 7
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 8
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 9
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 10
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 11
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 12
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 13
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 14
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 15
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 16
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 17
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 18
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 19
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 20
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 21
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 22
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 23
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 24
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 25
+[Sep 19, 2020, 9:53:27.7 AM:INFO:database_migration.cc(77)] DB: Migrated to version 26
+[Sep 19, 2020, 9:53:27.8 AM:INFO:state_migration_v1.cc(39)] No publisher state
+[Sep 19, 2020, 9:53:27.8 AM:INFO:state_migration.cc(72)] State: Migrated to version 1
+[Sep 19, 2020, 9:53:27.8 AM:INFO:state_migration_v2.cc(40)] No ledger state
+[Sep 19, 2020, 9:53:27.8 AM:INFO:state_migration.cc(72)] State: Migrated to version 2
+[Sep 19, 2020, 9:53:27.9 AM:INFO:contribution.cc(264)] Timer will start in 2592000
+[Sep 19, 2020, 9:53:27.9 AM:INFO:contribution.cc(264)] Timer will start in 5
+[Sep 19, 2020, 9:53:27.9 AM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Sep 19, 2020, 9:53:27.9 AM:INFO:recovery.cc(14)] Running empty balance check...
+[Sep 19, 2020, 9:53:27.9 AM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Sep 19, 2020, 9:53:27.9 AM:INFO:promotion.cc(558)] Promotion is empty
+[Sep 19, 2020, 9:53:27.9 AM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Sep 19, 2020, 9:53:27.9 AM:INFO:recovery_empty_balance.cc(116)] Creds batch list is emtpy
+--------------------------------------------------------------------------------
+[Sep 19, 2020, 7:46:21.0 PM:INFO:contribution.cc(264)] Timer will start in 2556426
+[Sep 19, 2020, 7:46:21.0 PM:INFO:contribution.cc(264)] Timer will start in 11
+[Sep 19, 2020, 7:46:21.0 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Sep 19, 2020, 7:46:21.0 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Sep 19, 2020, 7:46:21.0 PM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Oct 01, 2020, 6:14:56.0 PM:INFO:contribution.cc(264)] Timer will start in 1525111
+[Oct 01, 2020, 6:14:56.0 PM:INFO:contribution.cc(264)] Timer will start in 3
+[Oct 01, 2020, 6:14:56.0 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Oct 01, 2020, 6:14:56.0 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Oct 01, 2020, 6:14:56.0 PM:INFO:promotion.cc(558)] Promotion is empty

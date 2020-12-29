@@ -1,0 +1,15 @@
+2020/09/12-15:54:40.103 5b2 Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/12-15:54:40.103 5b2 Recovering log #15
+2020/09/12-15:54:40.103 5b2 Reusing old log /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/000015.log 
+2020/09/12-15:55:37.981 1e62 Level-0 table #20: started
+2020/09/12-15:55:37.986 1e62 Level-0 table #20: 3402 bytes OK
+2020/09/12-15:55:37.990 1e62 Delete type=0 #15
+2020/09/12-15:55:37.990 1e62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/12-15:55:37.990 1e62 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x80%rHHwB\x00\x01\\x00t\x00r\x00e\x00l\x00l\x00o\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x004\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00.\x00t\x00r\x00e\x00l\x00l\x00o\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00p\x00r\x00g\x00b\x00/\x00d\x00i\x00s\x00t\x00/\x00b\x00o\x00a\x00r\x00d\x00-\x00s\x00i\x00d\x00e\x00b\x00a\x00r\x00-\x00v\x00i\x00e\x00w\x00.\x00c\x007\x004\x003\x004\x005\x009\x00c\x009\x004\x001\x00b\x00b\x00d\x000\x004\x000\x003\x008\x007\x00.\x00j\x00s' @ 1804 : 1
+2020/09/12-15:55:37.990 1e62 Compacting 1@1 + 1@2 files
+2020/09/12-15:55:37.999 1e62 Generated table #21@1: 242 keys, 23108 bytes
+2020/09/12-15:55:37.999 1e62 Compacted 1@1 + 1@2 files => 23108 bytes
+2020/09/12-15:55:38.008 1e62 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/12-15:55:38.008 1e62 Delete type=2 #20
+2020/09/12-15:55:38.008 1e62 Delete type=2 #17
+2020/09/12-15:55:38.009 1e62 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x80%rHHwB\x00\x01\\x00t\x00r\x00e\x00l\x00l\x00o\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x004\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00.\x00t\x00r\x00e\x00l\x00l\x00o\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00p\x00r\x00g\x00b\x00/\x00d\x00i\x00s\x00t\x00/\x00b\x00o\x00a\x00r\x00d\x00-\x00s\x00i\x00d\x00e\x00b\x00a\x00r\x00-\x00v\x00i\x00e\x00w\x00.\x00c\x007\x004\x003\x004\x005\x009\x00c\x009\x004\x001\x00b\x00b\x00d\x000\x004\x000\x003\x008\x007\x00.\x00j\x00s' @ 1804 : 1 .. (end); will stop at (end)

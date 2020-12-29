@@ -1,0 +1,138 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="drag_logbook: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="ProjectFrameBounds" x="22" y="-2" width="2516" height="1392" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Database" order="0" visible="true" weight="0.12814274" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="8" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="861" y="117" width="804" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606970156105">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="861" y="117" width="804" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1606970156105" />
+    <state width="296" height="500" key="HiddenNamespacesPopup" timestamp="1598933844060">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="296" height="500" key="HiddenNamespacesPopup/0.0.2560.1440@0.0.2560.1440" timestamp="1598933844060" />
+    <state x="849" y="255" width="1115" height="752" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606970030566">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="849" y="255" width="1115" height="752" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.2560.1440@0.0.2560.1440" timestamp="1606970030566" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://3d68d9d1-1213-4f38-9fd7-60afa4ef2570/schema/laravel/table/run_car_power_adders">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="0240b257-d6e1-44df-9528-2d2b3b85bf50" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3d68d9d1-1213-4f38-9fd7-60afa4ef2570/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3d68d9d1-1213-4f38-9fd7-60afa4ef2570/schema/laravel/table/runs">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="9cd3882e-3f07-49ba-b48e-1ea4ea70e59e" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3d68d9d1-1213-4f38-9fd7-60afa4ef2570/schema/laravel/table/run_car_settings">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="9cd3882e-3f07-49ba-b48e-1ea4ea70e59e" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3d68d9d1-1213-4f38-9fd7-60afa4ef2570/schema/laravel/table/run_time_slips">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="9cd3882e-3f07-49ba-b48e-1ea4ea70e59e" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed5debcf-1b21-4e2e-b7a7-b0c8491cf31d/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3d68d9d1-1213-4f38-9fd7-60afa4ef2570/schema/laravel/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="9cd3882e-3f07-49ba-b48e-1ea4ea70e59e" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3d68d9d1-1213-4f38-9fd7-60afa4ef2570/schema/laravel/table/tags">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="9cd3882e-3f07-49ba-b48e-1ea4ea70e59e" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3d68d9d1-1213-4f38-9fd7-60afa4ef2570/schema/laravel/table/taggables">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="9cd3882e-3f07-49ba-b48e-1ea4ea70e59e" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3d799233-2985-4ef9-8e0d-2c9e30e1ff6e/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

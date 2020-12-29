@@ -1,0 +1,287 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://draglogbook.lando.test/runs",
+		"timestamp": 1605389850423
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-11-14T21:37:30.423Z",
+		"timestamp": 1605389850423
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.69.1 OpenSSL/1.1.1g zlib/1.2.11 brotli/1.0.7 libssh2/1.9.0 nghttp2/1.41.0",
+		"timestamp": 1605389850423
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1605389850423
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1605389850423
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1605389850424
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable SSL validation",
+		"timestamp": 1605389850424
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 2 cookies",
+		"timestamp": 1605389850425
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host draglogbook.lando.test: 0x29a2c41806f0 [can multiplex]\n",
+		"timestamp": 1605389850427
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#1) with host draglogbook.lando.test\n",
+		"timestamp": 1605389850427
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to draglogbook.lando.test (127.0.0.1) port 443 (#1)\n",
+		"timestamp": 1605389850427
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 2a1 (easy handle 0x29a2c51a8000)\n",
+		"timestamp": 1605389850427
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /runs HTTP/2\r\nHost: draglogbook.lando.test\r\ncookie: drag_logbook_session=eyJpdiI6InBWMndtNXJ1aUxhSm83QnFEaEJlQ2c9PSIsInZhbHVlIjoiaDdkZm5xY0tpY0ZNaWlEaHY0OW1CYmFobTM2SW10N3h1NG8zd0VWSVFTaVN5dTcvTTU5SGsxZVlPT2dpeDN2NWY0REVwTDJSOVdCRVMzWTVaZ3g2L3RualU2cDlLQS9vaWplMlNwMFIzMWJZcE5PcmJYU3AzUFVpYTNQUXlVenAiLCJtYWMiOiI0ZDIxYWM0MDgzMzFjNDEwOGQ3NTM5YTFhZDNkNjk2YmJiYzAzOWQ4MWI1MDQ4NGMxMDZjZTcyOTlmYjIxMTRjIn0%3D; XSRF-TOKEN=eyJpdiI6IjJFc3pYOXluT2k4N3NvNTVSMUJCZnc9PSIsInZhbHVlIjoiYi9qbkV1YXkxY3R5OFVIMDljemxEV0w0NDQxa0FJWkdhT3J4NHVVd1dyRW8vZU1lUjU0YVRsNmdQajFtUGRtWk1Xc0Uzd1FpVWd3UWVXdHI4bi9wT0pvdnI3blhsdTE4STMvZnFNanhOVWtLeFV1ZmVtTDAxZDBSQnlNZ0hXa0kiLCJtYWMiOiI5MDdkZDdjOTM2M2QxNWE2MmZjNGIxYzAwZmI2M2NlYWM4NWRiMTAwZjY3OTFlZGQ5NDRhZjQ0ZTk2MTcyYTgxIn0%3D\r\ncontent-type: application/x-www-form-urlencoded\r\nuser-agent: PostmanRuntime\r\naccept: application/json\r\ncontent-length: 0\r\n\r\n",
+		"timestamp": 1605389850427
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 302 \r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "cache-control: no-cache, private\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/html; charset=UTF-8\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Sat, 14 Nov 2020 21:37:30 GMT\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "location: https://draglogbook.lando.test/runs\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: Apache/2.4.38 (Debian)\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "TEXT",
+		"value": "Replaced cookie drag_logbook_session=\"eyJpdiI6IkNGcS8yUzgwdC9pUDhGem1zU1BFVXc9PSIsInZhbHVlIjoiSTNTcnczNzY3Yjk0VnZoZm43YWxyeFBNNllTbXd5RzhsZlMyMHl2b3B6aVA5VlBXN05yRDl6REl5b2dkQnNQekxEWCs4OTExMEt5VWtkS0MwWlJuUklMekhqYmNweHEwSWwzaDhuQW9CNGxYMU1WcDRIVEhDSi9PWjNoOXZ2bkwiLCJtYWMiOiIxMThjOTAwMzk4NjM2MGUwOGM5MDFlMTk5NDk3YzRjMDY4MjVjZDY2MzViZjA0NDc5MWFlZDllYzVkZDU1MDdlIn0%3D\" for domain draglogbook.lando.test, path /, expire 1605397050\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "set-cookie: drag_logbook_session=eyJpdiI6IkNGcS8yUzgwdC9pUDhGem1zU1BFVXc9PSIsInZhbHVlIjoiSTNTcnczNzY3Yjk0VnZoZm43YWxyeFBNNllTbXd5RzhsZlMyMHl2b3B6aVA5VlBXN05yRDl6REl5b2dkQnNQekxEWCs4OTExMEt5VWtkS0MwWlJuUklMekhqYmNweHEwSWwzaDhuQW9CNGxYMU1WcDRIVEhDSi9PWjNoOXZ2bkwiLCJtYWMiOiIxMThjOTAwMzk4NjM2MGUwOGM5MDFlMTk5NDk3YzRjMDY4MjVjZDY2MzViZjA0NDc5MWFlZDllYzVkZDU1MDdlIn0%3D; expires=Sat, 14-Nov-2020 23:37:30 GMT; Max-Age=7200; path=/; httponly; samesite=lax\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-powered-by: PHP/7.4.11\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 386\r\n",
+		"timestamp": 1605389850454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 386 B chunk",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #1 to host draglogbook.lando.test left intact\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'https://draglogbook.lando.test/runs'\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Switch from POST to GET\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host draglogbook.lando.test: 0x29a2c41806f0 [can multiplex]\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#1) with host draglogbook.lando.test\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to draglogbook.lando.test (127.0.0.1) port 443 (#1)\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 2a3 (easy handle 0x29a2c51a8000)\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /runs HTTP/2\r\nHost: draglogbook.lando.test\r\ncookie: drag_logbook_session=eyJpdiI6IkNGcS8yUzgwdC9pUDhGem1zU1BFVXc9PSIsInZhbHVlIjoiSTNTcnczNzY3Yjk0VnZoZm43YWxyeFBNNllTbXd5RzhsZlMyMHl2b3B6aVA5VlBXN05yRDl6REl5b2dkQnNQekxEWCs4OTExMEt5VWtkS0MwWlJuUklMekhqYmNweHEwSWwzaDhuQW9CNGxYMU1WcDRIVEhDSi9PWjNoOXZ2bkwiLCJtYWMiOiIxMThjOTAwMzk4NjM2MGUwOGM5MDFlMTk5NDk3YzRjMDY4MjVjZDY2MzViZjA0NDc5MWFlZDllYzVkZDU1MDdlIn0%3D; XSRF-TOKEN=eyJpdiI6IjJFc3pYOXluT2k4N3NvNTVSMUJCZnc9PSIsInZhbHVlIjoiYi9qbkV1YXkxY3R5OFVIMDljemxEV0w0NDQxa0FJWkdhT3J4NHVVd1dyRW8vZU1lUjU0YVRsNmdQajFtUGRtWk1Xc0Uzd1FpVWd3UWVXdHI4bi9wT0pvdnI3blhsdTE4STMvZnFNanhOVWtLeFV1ZmVtTDAxZDBSQnlNZ0hXa0kiLCJtYWMiOiI5MDdkZDdjOTM2M2QxNWE2MmZjNGIxYzAwZmI2M2NlYWM4NWRiMTAwZjY3OTFlZGQ5NDRhZjQ0ZTk2MTcyYTgxIn0%3D\r\ncontent-type: application/x-www-form-urlencoded\r\nuser-agent: PostmanRuntime\r\naccept: application/json\r\n\r\n",
+		"timestamp": 1605389850455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "cache-control: no-cache, private\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/html; charset=UTF-8\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Sat, 14 Nov 2020 21:37:30 GMT\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: Apache/2.4.38 (Debian)\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "TEXT",
+		"value": "Replaced cookie XSRF-TOKEN=\"eyJpdiI6IlRjRUhXcGE1U2x3bGFyUDFNdHNPS3c9PSIsInZhbHVlIjoiTTFmNzBlUzkyWTBkcnFnYVFrUG5mNnQ4Ym53d2UxMlh2bkJHcDRoMTRHR3VPMktIOUZoenV1bDdBRm9JQ21rL21ZMFlCTnJCSVZZekJhRFpVa3FrN1B4OExCdjhrQXJDSFl4dW9JTzh6MGkyMVdBUkxnMGl2bm5PaEpINVMrSE4iLCJtYWMiOiJiNzA1ZWZlNmIxNjc0YzUwYWFlODhmNDQ5ZDNhNmJkNWQ3M2E2OGVhYjA3ZDRhOGM5YWViZjlmYjE0OTQwZGUyIn0%3D\" for domain draglogbook.lando.test, path /, expire 1605397050\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "set-cookie: XSRF-TOKEN=eyJpdiI6IlRjRUhXcGE1U2x3bGFyUDFNdHNPS3c9PSIsInZhbHVlIjoiTTFmNzBlUzkyWTBkcnFnYVFrUG5mNnQ4Ym53d2UxMlh2bkJHcDRoMTRHR3VPMktIOUZoenV1bDdBRm9JQ21rL21ZMFlCTnJCSVZZekJhRFpVa3FrN1B4OExCdjhrQXJDSFl4dW9JTzh6MGkyMVdBUkxnMGl2bm5PaEpINVMrSE4iLCJtYWMiOiJiNzA1ZWZlNmIxNjc0YzUwYWFlODhmNDQ5ZDNhNmJkNWQ3M2E2OGVhYjA3ZDRhOGM5YWViZjlmYjE0OTQwZGUyIn0%3D; expires=Sat, 14-Nov-2020 23:37:30 GMT; Max-Age=7200; path=/; samesite=lax\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "TEXT",
+		"value": "Replaced cookie drag_logbook_session=\"eyJpdiI6ImhRNUhxZVNuSkRjWDBPSjQ4ZUVuK2c9PSIsInZhbHVlIjoiczhFUE9KRUZBWlZJMTRDNW5ReE9tOXJJWW9zSEgwTjdkNFlmcHFHayt3RXVIRUFFTk5aN05zcVoxbVlpOWFjYXpYWE1scW1zSnBmanREUzYzaGVIQWYxdGRSZzBFbm5yc2s3NzR1VWhyaHBKaUdXNmVTbEdhdHBWNnVBNWw1SUwiLCJtYWMiOiJhYjA3OWFjNDMyNzczMzIyYjVlNTA3ZGZlOWY4OWQ1ZjVkZmMyMDI0YTRhNTg4OWUwNDdiNWQwM2E1NDMxMzVkIn0%3D\" for domain draglogbook.lando.test, path /, expire 1605397050\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "set-cookie: drag_logbook_session=eyJpdiI6ImhRNUhxZVNuSkRjWDBPSjQ4ZUVuK2c9PSIsInZhbHVlIjoiczhFUE9KRUZBWlZJMTRDNW5ReE9tOXJJWW9zSEgwTjdkNFlmcHFHayt3RXVIRUFFTk5aN05zcVoxbVlpOWFjYXpYWE1scW1zSnBmanREUzYzaGVIQWYxdGRSZzBFbm5yc2s3NzR1VWhyaHBKaUdXNmVTbEdhdHBWNnVBNWw1SUwiLCJtYWMiOiJhYjA3OWFjNDMyNzczMzIyYjVlNTA3ZGZlOWY4OWQ1ZjVkZmMyMDI0YTRhNTg4OWUwNDdiNWQwM2E1NDMxMzVkIn0%3D; expires=Sat, 14-Nov-2020 23:37:30 GMT; Max-Age=7200; path=/; httponly; samesite=lax\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "vary: Accept-Encoding\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-powered-by: PHP/7.4.11\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1605389850500
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 9 B chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 9 B chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 9 B chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 9 B chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 15.9 KB chunk",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #1 to host draglogbook.lando.test left intact\n",
+		"timestamp": 1605389850501
+	},
+	{
+		"name": "TEXT",
+		"value": "Saved 3 cookies",
+		"timestamp": 1605389850504
+	}
+]

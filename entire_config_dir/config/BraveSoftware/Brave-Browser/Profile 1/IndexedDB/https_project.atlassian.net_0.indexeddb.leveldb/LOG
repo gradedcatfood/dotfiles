@@ -1,0 +1,8 @@
+2020/09/19-17:07:04.320 3504 Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_project.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/19-17:07:04.320 3504 Recovering log #1228
+2020/09/19-17:07:04.320 3504 Reusing old log /home/mmillis/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_project.atlassian.net_0.indexeddb.leveldb/001228.log 
+2020/09/19-17:07:53.068 4f36 Level-0 table #1232: started
+2020/09/19-17:07:53.068 4f36 Level-0 table #1232: 0 bytes OK
+2020/09/19-17:07:53.076 4f36 Delete type=0 #1228
+2020/09/19-17:07:53.076 4f36 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/19-17:07:53.077 4f36 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,247 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://draglogbook.lando.test/runs/6",
+		"timestamp": 1605391767637
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-11-14T22:09:27.637Z",
+		"timestamp": 1605391767637
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.69.1 OpenSSL/1.1.1g zlib/1.2.11 brotli/1.0.7 libssh2/1.9.0 nghttp2/1.41.0",
+		"timestamp": 1605391767637
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1605391767637
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1605391767637
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1605391767637
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable SSL validation",
+		"timestamp": 1605391767638
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 2 cookies",
+		"timestamp": 1605391767639
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1:443...\n",
+		"timestamp": 1605391767644
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to draglogbook.lando.test (127.0.0.1) port 443 (#0)\n",
+		"timestamp": 1605391767644
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1605391767646
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1605391767646
+	},
+	{
+		"name": "TEXT",
+		"value": "successfully set certificate verify locations:\n",
+		"timestamp": 1605391767653
+	},
+	{
+		"name": "TEXT",
+		"value": "  CAfile: /tmp/insomnia_2020.4.1/2017-09-20.pem\n  CApath: none\n",
+		"timestamp": 1605391767653
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1605391767654
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1605391767657
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1605391767657
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1605391767657
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1605391767658
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1605391767658
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1605391767658
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "Server certificate:\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": " subject: C=US; ST=California; L=San Francisco; O=Lando; OU=Bespin; CN=appserver.draglogbook.internal\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": " start date: Nov 13 02:55:19 2020 GMT\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": " expire date: Feb 16 02:55:19 2023 GMT\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": " issuer: C=US; ST=California; L=San Francisco; O=Lando; OU=Bespin; CN=Lando Local CA\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": " SSL certificate verify result: unable to get local issuer certificate (20), continuing anyway.\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "Using HTTP2, server supports multi-use\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 1 (easy handle 0x15970d634800)\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /runs/6 HTTP/2\r\nHost: draglogbook.lando.test\r\ncookie: drag_logbook_session=eyJpdiI6InJDVzNvQis1ZWVMbGhKakRNS3FCaFE9PSIsInZhbHVlIjoiMGxCY2VaZzBFcnZOTUdENXZyK3FQc1NKRGI0SHd4RUNkdjRubkhRcTE4UGtOVEM3dnR6RVZITkl2MUJOSjl0bUdEK0lYc1llb2RvS0paZldOZUFQOTJpMGpyQXAzUTJYcW5TOW1BamZWdDFYT05HeVJKRVNrbUV3NGlMbmh0eHoiLCJtYWMiOiI2YTVkZjI1ZmQ2MWFlODhkYWZkOGFjYzI1YzBjODNhOTA2MTJkNTIyNjNiYjBmZGJhYzBiYTVjNmIxNTg1YWE1In0%3D; XSRF-TOKEN=eyJpdiI6InBYTjYrK0JWQ01uUkxXai9KcStoTUE9PSIsInZhbHVlIjoiRmtHUUcreXJsUnVKUmFicndqUTVEUjJ3OUxsbXVaODZIZXNDcEp0VXRlVG51ZUs4QVAyVElyZmZ0S2JEYkgxR0Rzc2RSd0FkZ1FSa0Y3SVdJM1ZmKzIzNlQxWmh0aFQ4NlpHaWVSelJPbWNnNllFbGlWbVZZS1h0bVdQTVloaVUiLCJtYWMiOiIxM2M2ODI3M2RmMzljZGYxNjA0YzI3NjMxZWM3YzY4NTcyYzVkYzAwZGM3ODFkMDdjZTc2OGY3YTFiMmM5NmM5In0%3D\r\ncontent-type: application/x-www-form-urlencoded\r\nuser-agent: PostmanRuntime\r\naccept: application/json\r\ncontent-length: 0\r\n\r\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1605391767659
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 250)!\n",
+		"timestamp": 1605391767660
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 405 \r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "allow: GET, HEAD, PUT, PATCH, DELETE\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "cache-control: no-cache, private\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Sat, 14 Nov 2020 22:09:27 GMT\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: Apache/2.4.38 (Debian)\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-powered-by: PHP/7.4.11\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 6879\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 2.7 KB chunk",
+		"timestamp": 1605391767685
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #0 to host draglogbook.lando.test left intact\n",
+		"timestamp": 1605391767685
+	}
+]

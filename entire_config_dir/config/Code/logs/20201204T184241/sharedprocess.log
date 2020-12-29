@@ -1,0 +1,21 @@
+[2020-12-04 18:42:45.260] [sharedprocess] [info] main {"machineId":"c814f0d776b9e1da49dba2b205b3478e0a2f589c53d5646c2d0873a55d395a36","windowId":2}
+[2020-12-04 18:42:46.105] [sharedprocess] [info] Deleted from disk octref.vetur /home/mmillis/.vscode/extensions/octref.vetur-0.29.0
+[2020-12-04 18:42:47.927] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2020-12-04 18:42:47.929] [sharedprocess] [info] Installing extension: octref.vetur
+[2020-12-04 18:42:47.929] [sharedprocess] [info] Installing extension: onecentlin.laravel-blade
+[2020-12-04 18:42:49.955] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense /home/mmillis/.config/Code/CachedExtensionVSIXs/amiralizadeh9480.laravel-extra-intellisense-0.4.1
+[2020-12-04 18:42:50.052] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.amiralizadeh9480.laravel-extra-intellisense-0.4.1: amiralizadeh9480.laravel-extra-intellisense
+[2020-12-04 18:42:50.052] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.4.1
+[2020-12-04 18:42:50.053] [sharedprocess] [info] Installation completed. amiralizadeh9480.laravel-extra-intellisense
+[2020-12-04 18:42:50.060] [sharedprocess] [info] Extensions installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2020-12-04 18:42:52.383] [sharedprocess] [info] Downloaded extension: onecentlin.laravel-blade /home/mmillis/.config/Code/CachedExtensionVSIXs/onecentlin.laravel-blade-1.25.0
+[2020-12-04 18:42:53.125] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.onecentlin.laravel-blade-1.25.0: onecentlin.laravel-blade
+[2020-12-04 18:42:53.125] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/onecentlin.laravel-blade-1.25.0
+[2020-12-04 18:42:53.127] [sharedprocess] [info] Installation completed. onecentlin.laravel-blade
+[2020-12-04 18:42:53.153] [sharedprocess] [info] Extensions installed successfully: onecentlin.laravel-blade
+[2020-12-04 18:42:53.470] [sharedprocess] [info] Downloaded extension: octref.vetur /home/mmillis/.config/Code/CachedExtensionVSIXs/octref.vetur-0.30.3
+[2020-12-04 18:42:55.686] [sharedprocess] [info] Extracted extension to /home/mmillis/.vscode/extensions/.octref.vetur-0.30.3: octref.vetur
+[2020-12-04 18:42:55.687] [sharedprocess] [info] Renamed to /home/mmillis/.vscode/extensions/octref.vetur-0.30.3
+[2020-12-04 18:42:55.688] [sharedprocess] [info] Installation completed. octref.vetur
+[2020-12-04 18:42:55.720] [sharedprocess] [info] Extensions installed successfully: octref.vetur
+[2020-12-04 18:43:25.276] [sharedprocess] [info] Starting to clean up unused language packs.

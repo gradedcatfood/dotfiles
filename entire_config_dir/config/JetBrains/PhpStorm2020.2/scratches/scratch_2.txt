@@ -1,0 +1,18 @@
+Oh yeah, I forgot to tell you my thoughts on Inertia after palying with it last weekend.
+
+Okay sooo, super cool package. I think this would lower the "barrier of entry" to single page apps and
+things would be moree explicit in regards to how Vue gets data etc. I didnt push the limits of it super hard or anything
+and really wanna use this package at UCI buuuuut I have a major conern.
+
+This package JUST hit v0.3.0. They say its production ready and the reason why its not v1 is because they are still
+"experimenting" with ideas. Which I respect, but kinda fear. I meen just within this last week 1 improvment was made
+but introduced breaking changes. Also, they JUST pushed a better way to handle sharing data with Vue pages 100% of the time
+with a middleware vs a service provider (better peformacnce).
+
+So my takeaway is, I really want to use Inertia, but I can't say thats a safe idea considering its going through some growing
+pains right now. I think in 6-12 monthes I'd like to re visit it and see if anything is "stable" enough for UCI so that
+we're arn't upgarding our code every damn month. 1 thing that gives me hope is that the Inertia project is gaining a TON
+of sponsers ever since laravel jestream annoucned they were using Inertia. More sponsers is more money and more eyes and
+hopfully can make it more stable.
+
+/sorry long story

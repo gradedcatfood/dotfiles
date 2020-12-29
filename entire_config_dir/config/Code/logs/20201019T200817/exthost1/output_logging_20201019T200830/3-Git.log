@@ -1,0 +1,80 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mmillis/Code/mmillis/drag-logbook
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/HomeController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/HomeController.php
+> git cat-file -s 7cbc2c3f0cbc4fd1d2b2734a0301b416f54f479e
+> git show --textconv :app/Http/Controllers/RunCarPowerAdderController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunCarPowerAdderController.php
+> git cat-file -s f862d10c1f07f62bd65d62b7cb7f74cd58e9922a
+> git show --textconv :app/Http/Controllers/RunCarSettingController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunCarSettingController.php
+> git cat-file -s 0dc81ea7e71a0e8362e2fc3f4bf5513dea34e10c
+> git show --textconv :app/Http/Controllers/UserController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/UserController.php
+> git cat-file -s aa75073e6d91c78ca22d3dbde583abcd8a64978f
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Models/User.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Models/User.php
+> git cat-file -s 5bc00ff04ceb1825b6f31aa9037a2e5b39690890
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Models/Car.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Models/Car.php
+> git cat-file -s b86e97f3a02cf1b124534e605cf4c2c1ee9b7d35
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git show --textconv :app/Models/Car.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Models/Car.php
+> git cat-file -s b86e97f3a02cf1b124534e605cf4c2c1ee9b7d35
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664
+> git show --textconv :vendor/inertiajs/inertia-laravel/src/Inertia.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/vendor/inertiajs/inertia-laravel/src/Inertia.php
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/RunController.php
+> git ls-files --stage -- /home/mmillis/Code/mmillis/drag-logbook/app/Http/Controllers/RunController.php
+> git cat-file -s d79ce4255808d0664b7a756fc5e4503fc1a43664

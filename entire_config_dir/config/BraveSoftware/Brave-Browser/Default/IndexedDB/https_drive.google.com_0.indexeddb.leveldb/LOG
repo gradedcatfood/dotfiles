@@ -1,0 +1,15 @@
+2020/10/10-18:34:51.628 37a3 Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/10-18:34:51.629 37a3 Recovering log #31
+2020/10/10-18:34:51.629 37a3 Reusing old log /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000031.log 
+2020/10/10-18:35:12.661 39bb Level-0 table #36: started
+2020/10/10-18:35:12.670 39bb Level-0 table #36: 349140 bytes OK
+2020/10/10-18:35:12.673 39bb Delete type=0 #31
+2020/10/10-18:35:12.674 39bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/10-18:35:12.674 39bb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x00f\x006\x000\x008\x000\x005\x00c\x00c\x005\x00d\x00c\x00a\x001\x00f\x002\x001\x00e\x00f\x00d\x00b\x00a\x00d\x001\x00b\x00c\x005\x00d\x00f\x00a\x001\x00f\x009\x00_\x003\x00_\x001\x00:\x000\x000' @ 3208 : 0
+2020/10/10-18:35:12.674 39bb Compacting 1@1 + 1@2 files
+2020/10/10-18:35:12.683 39bb Generated table #37@1: 97 keys, 96808 bytes
+2020/10/10-18:35:12.683 39bb Compacted 1@1 + 1@2 files => 96808 bytes
+2020/10/10-18:35:12.693 39bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/10-18:35:12.693 39bb Delete type=2 #36
+2020/10/10-18:35:12.693 39bb Delete type=2 #33
+2020/10/10-18:35:12.694 39bb Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x00f\x006\x000\x008\x000\x005\x00c\x00c\x005\x00d\x00c\x00a\x001\x00f\x002\x001\x00e\x00f\x00d\x00b\x00a\x00d\x001\x00b\x00c\x005\x00d\x00f\x00a\x001\x00f\x009\x00_\x003\x00_\x001\x00:\x000\x000' @ 3208 : 0 .. (end); will stop at (end)

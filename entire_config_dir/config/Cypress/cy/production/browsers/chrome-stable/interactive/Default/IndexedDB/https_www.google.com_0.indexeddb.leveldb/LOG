@@ -1,0 +1,15 @@
+2020/12/19-21:58:57.425 76fd Reusing MANIFEST /home/mmillis/.config/Cypress/cy/production/browsers/chrome-stable/interactive/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/19-21:58:57.425 76fd Recovering log #4
+2020/12/19-21:58:57.425 76fd Reusing old log /home/mmillis/.config/Cypress/cy/production/browsers/chrome-stable/interactive/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/000004.log 
+2020/12/19-21:59:41.292 78b7 Level-0 table #8: started
+2020/12/19-21:59:41.300 78b7 Level-0 table #8: 1779 bytes OK
+2020/12/19-21:59:41.305 78b7 Delete type=0 #4
+2020/12/19-21:59:41.306 78b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/19-21:59:41.306 78b7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x08\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x00s' @ 84 : 1
+2020/12/19-21:59:41.306 78b7 Compacting 1@1 + 1@2 files
+2020/12/19-21:59:41.313 78b7 Generated table #9@1: 50 keys, 944 bytes
+2020/12/19-21:59:41.313 78b7 Compacted 1@1 + 1@2 files => 944 bytes
+2020/12/19-21:59:41.322 78b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/19-21:59:41.322 78b7 Delete type=2 #5
+2020/12/19-21:59:41.322 78b7 Delete type=2 #8
+2020/12/19-21:59:41.323 78b7 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x08\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x00s' @ 84 : 1 .. (end); will stop at (end)

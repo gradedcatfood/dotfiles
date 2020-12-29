@@ -1,0 +1,45 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.2560.1440" x="537" y="177" />
+    <location key="find.popup.0.0.2560.1440@120dpi" x="537" y="177" />
+    <size key="find.popup.0.0.2560.1440" width="1347" height="911" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2464" height="346" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2464" height="346" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2464" height="346" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2464" height="346" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2466" height="291" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2466" height="291" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2466" height="291" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2466" height="291" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2466" height="474" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2466" height="474" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2466" height="474" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2466" height="474" />
+    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2466" height="474" />
+    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2466" height="474" />
+    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2466" height="474" />
+    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2466" height="474" />
+    <size key="find.popup.0.0.2560.1440@120dpi" width="1347" height="911" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440@120dpi" width="2458" height="303" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440@120dpi" width="2458" height="303" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440@120dpi" width="2458" height="303" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440@120dpi" width="2458" height="303" />
+  </component>
+  <component name="WindowManager">
+    <frame x="22" y="-16" width="2516" height="1392" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="619" y="119" width="428" height="484" key="FileChooserDialogImpl" timestamp="1597199777791">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="619" y="119" width="428" height="484" key="FileChooserDialogImpl/0.0.1680.1050" timestamp="1597199777791" />
+  </component>
+</application>

@@ -1,0 +1,5 @@
+2020/11/13-21:57:12.758 2795 Reusing MANIFEST /home/mmillis/.config/Cypress/cy/production/browsers/chrome-stable/interactive/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/13-21:57:45.002 2897 Level-0 table #5: started
+2020/11/13-21:57:45.008 2897 Level-0 table #5: 1210 bytes OK
+2020/11/13-21:57:45.017 2897 Delete type=0 #3
+2020/11/13-21:57:45.018 2897 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

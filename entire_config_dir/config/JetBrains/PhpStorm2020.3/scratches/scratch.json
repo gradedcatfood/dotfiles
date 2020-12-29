@@ -1,0 +1,49 @@
+{
+  "$id": null,
+  "id": null,
+  "when": "2020-09-04T04:52:25.806Z",
+  "lane": "123",
+  "location": "123",
+  "quarter_mile": true,
+  "eighth_mile": false,
+  "time_slip": {
+    "$id": null,
+    "id": null,
+    "reaction": "123",
+    "60_et": "123",
+    "330_et": "123",
+    "660_et": "123",
+    "660_mph": "123",
+    "1000_et": "123",
+    "1320_et": "123",
+    "1320_mph": "123",
+    "dial_in": "123",
+    "time_slip_image": "",
+    "run": null,
+    "run_id": null
+  },
+  "car_setting": {
+    "$id": null,
+    "id": null,
+    "front_shock": "",
+    "front_tire_pressure": "",
+    "rear_shock": "",
+    "rear_tire_pressure": "",
+    "ignition_timing": null,
+    "launch_rpm": null,
+    "shift_rpm": null,
+    "wheelie_bar_height": null,
+    "run": null,
+    "run_id": null
+  },
+  "car_power_adder": {
+    "$id": null,
+    "id": null,
+    "nitrous_hp": null,
+    "nitrous_ignition_retard": null,
+    "boost_pressure": null,
+    "run": null,
+    "run_id": null
+  },
+  "tags": []
+}

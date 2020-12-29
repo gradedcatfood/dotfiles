@@ -1,0 +1,1 @@
+The <strong>HTML Content Template (<code>&lt;template&gt;</code>) element</strong> is a mechanism for holding <a href="/en-US/docs/Glossary/HTML">HTML</a> that is not to be rendered immediately when a page is loaded but may be instantiated subsequently during runtime using JavaScript.

@@ -1,0 +1,10 @@
+[Info  - 8:08:31 PM] Initialising intelephense 1.5.4
+[Info  - 8:08:31 PM] Reading state from /home/mmillis/.config/Code/User/workspaceStorage/3a5126766204ff58215403b69c2c8b3f/bmewburn.vscode-intelephense-client/2e37f229.
+[Info  - 8:08:32 PM] Initialised in 1219 ms
+[Warn  - 8:08:33 PM] file:///home/mmillis/Code/mmillis/drag-logbook/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 8:08:33 PM] Indexing started.
+[Info  - 8:08:45 PM] Indexing ended. 5857 files indexed in 12s.
+[Info  - 8:08:45 PM] Writing state to /home/mmillis/.config/Code/User/workspaceStorage/3a5126766204ff58215403b69c2c8b3f/bmewburn.vscode-intelephense-client/2e37f229.
+[Info  - 8:08:46 PM] Wrote state in 1.0s.
+[Info  - 8:10:42 PM] Indexing started.
+[Info  - 8:10:42 PM] Indexing ended. 1 files indexed in 0s.
