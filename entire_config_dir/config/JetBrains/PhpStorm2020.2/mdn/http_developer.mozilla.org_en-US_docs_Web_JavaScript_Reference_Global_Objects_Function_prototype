@@ -1,1 +1,0 @@
-Every JavaScript function is actually a <code>Function</code> object. This can be seen with the code <code>(function(){}).constructor === Function</code>, which returns true.

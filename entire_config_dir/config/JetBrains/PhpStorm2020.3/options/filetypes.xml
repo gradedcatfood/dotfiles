@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="18">
-    <extensionMap>
-      <mapping pattern="lando-nginx" type="PLAIN_TEXT" />
-      <mapping pattern=".rnd" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

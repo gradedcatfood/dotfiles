@@ -1,5 +1,0 @@
-2020/09/19-09:55:07.916 4791 Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/19-09:58:36.589 4f36 Level-0 table #5: started
-2020/09/19-09:58:36.685 4f36 Level-0 table #5: 2070 bytes OK
-2020/09/19-09:58:36.687 4f36 Delete type=0 #3
-2020/09/19-09:58:36.688 4f36 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

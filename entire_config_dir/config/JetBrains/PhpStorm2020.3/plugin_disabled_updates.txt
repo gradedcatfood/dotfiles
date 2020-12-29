@@ -1,1 +1,0 @@
-intellij.prettierJS+202.7319.5

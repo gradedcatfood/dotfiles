@@ -1,8 +1,0 @@
-<code_scheme name="Default" version="173">
-  <option name="LINE_SEPARATOR" value="&#10;" />
-  <codeStyleSettings language="PHP">
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
-    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
-  </codeStyleSettings>
-</code_scheme>

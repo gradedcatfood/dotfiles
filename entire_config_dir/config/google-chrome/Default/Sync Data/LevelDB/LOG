@@ -1,6 +1,0 @@
-2020/12/19-22:19:17.595 18f2 Reusing MANIFEST /home/mmillis/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/12/19-22:19:17.595 18f2 Recovering log #23
-2020/12/19-22:19:17.596 18f2 Reusing old log /home/mmillis/.config/google-chrome/Default/Sync Data/LevelDB/000023.log 
-2020/12/19-22:30:01.231 32c7 Level-0 table #27: started
-2020/12/19-22:30:01.238 32c7 Level-0 table #27: 110094 bytes OK
-2020/12/19-22:30:01.241 32c7 Delete type=0 #23

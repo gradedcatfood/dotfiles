@@ -1,5 +1,0 @@
-2020/08/23-11:53:31.836 4345 Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_thomlom.dev_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/23-11:54:06.934 465f Level-0 table #5: started
-2020/08/23-11:54:06.945 465f Level-0 table #5: 1914 bytes OK
-2020/08/23-11:54:06.951 465f Delete type=0 #3
-2020/08/23-11:54:06.951 465f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

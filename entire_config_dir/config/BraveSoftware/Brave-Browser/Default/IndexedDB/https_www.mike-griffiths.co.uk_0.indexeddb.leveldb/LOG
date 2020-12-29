@@ -1,5 +1,0 @@
-2020/09/12-13:17:23.163 24a Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mike-griffiths.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/12-13:17:56.436 1e62 Level-0 table #5: started
-2020/09/12-13:17:56.439 1e62 Level-0 table #5: 4316 bytes OK
-2020/09/12-13:17:56.446 1e62 Delete type=0 #3
-2020/09/12-13:17:56.446 1e62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

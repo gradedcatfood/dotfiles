@@ -1,5 +1,0 @@
-2020/10/27-21:51:00.580 645b Reusing MANIFEST /home/mmillis/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.vuemastery.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/27-21:51:37.757 2dae Level-0 table #5: started
-2020/10/27-21:51:37.764 2dae Level-0 table #5: 1157 bytes OK
-2020/10/27-21:51:37.769 2dae Delete type=0 #3
-2020/10/27-21:51:37.769 2dae Manual compaction at level-0 from (begin) .. (end); will stop at (end)
