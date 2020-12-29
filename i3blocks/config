@@ -51,7 +51,7 @@ markup=none
 #label=Volume:
 label=♪
 command=amixer get Master | grep -E -o '[0-9]{1,3}?%' | head -1
-interval=once
+interval=5
 signal=1
 
 
@@ -61,7 +61,7 @@ signal=1
 [memory]
 label=MEM
 separator=false
-interval=30
+interval=5
 
 #[memory]
 #label=SWAP
@@ -105,7 +105,7 @@ interval=30
 # see the script for details.
 [cpu_usage]
 label=CPU
-interval=10
+interval=5
 #min_width=CPU: 100.00%
 #separator=false
 
@@ -132,7 +132,7 @@ interval=10
 # Date Time
 #
 [time]
-command=date '+%Y-%m-%d %H:%M:%S'
+command=date '+%m-%d-%Y %I:%M'
 interval=3
 
 

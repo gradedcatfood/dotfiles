@@ -99,7 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-export PATH=~/.composer/vendor/bin:$PATH
+export PATH=~/.config/composer/vendor/bin:$PATH
 
 
 function homestead() {
@@ -110,9 +110,13 @@ function homestead() {
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /usr/local/bin/trellis trellis
 
+composer-link() {
+    composer config repositories.local '{"type": "path", "url": "'$1'"}' --file composer.json
+}
 
-alias screenshot-select="maim --select '/home/$USER/Pictures/$(date)'"
+alias screenshot-select="maim --select '/home/$USER/Pictures/$(date).png'"
 alias i3config="vim /home/mmillis/.config/i3/config"
 alias idehelper="php artisan ide-helper:generate && php artisan ide-helper:meta && php artisan ide-helper:models"
 alias hosts="sudo vim /etc/hosts"
 alias ucivpn="sudo openconnect -u mmillis --authgroup=oit vpn.oit.uci.edu"
+alias lart="lando artisan"

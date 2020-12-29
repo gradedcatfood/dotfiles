@@ -176,8 +176,8 @@ bar {
     #status_command i3status
     status_command i3blocks
     tray_output primary
-    workspace_min_width 110
-    tray_padding 1
+    workspace_min_width 150
+    tray_padding 10
     #separator_symbol ":|:"
     colors {
             background $bg-color
@@ -247,4 +247,4 @@ exec --no-startup-id nm-applet
 #exec compton -f --config ~/.config/compton/config
 #exec desktop-cycle -i 300s ~/Pictures/bgs
 #exec pulseaudio
-#exec imwheel
+#exec --no-startup-id imwheel
