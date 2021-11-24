@@ -26,17 +26,8 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-
 # Screen resolution
 xrandr --newmode "2560x1440R"  241.50  2560 2608 2640 2720  1440 1443 1448 1481 +hsync -vsync
 xrandr --addmode HDMI-2 2560x1440R
 xrandr --output HDMI-2 --mode "2560x1440R" --primary
-
-#rivalcfg -S 1800
-
-# Set speed of mouse
-#xinput set-prop 17 309 -0.4
-
-# moved to .xsessionrc
-#xinput set-prop "SteelSeries SteelSeries Rival 310 eSports Mouse" "libinput Accel Speed" -0.6
-
+export GOPATH=/home/mmillis/gocode

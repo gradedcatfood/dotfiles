@@ -12,7 +12,7 @@ ZSH_THEME="robbyrussell"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
-# a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
+# a theme from this variable instead of looking in $ZSH/themes/
 # If set to an empty array, this variable will have no effect.
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
 
@@ -33,7 +33,7 @@ ZSH_THEME="robbyrussell"
 # export UPDATE_ZSH_DAYS=13
 
 # Uncomment the following line if pasting URLs and other text is messed up.
-# DISABLE_MAGIC_FUNCTIONS=true
+# DISABLE_MAGIC_FUNCTIONS="true"
 
 # Uncomment the following line to disable colors in ls.
 # DISABLE_LS_COLORS="true"
@@ -64,8 +64,8 @@ ZSH_THEME="robbyrussell"
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
 # Which plugins would you like to load?
-# Standard plugins can be found in ~/.oh-my-zsh/plugins/*
-# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Standard plugins can be found in $ZSH/plugins/
+# Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git zsh-autosuggestions)
@@ -98,17 +98,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-
 export PATH=~/.config/composer/vendor/bin:$PATH
 
-
-function homestead() {
-    ( cd ~/Homestead && vagrant $* )
-}
-
-
-autoload -U +X bashcompinit && bashcompinit
-complete -o nospace -C /usr/local/bin/trellis trellis
 
 composer-link() {
     composer config repositories.local '{"type": "path", "url": "'$1'"}' --file composer.json
@@ -118,5 +109,10 @@ alias screenshot-select="maim --select '/home/$USER/Pictures/$(date).png'"
 alias i3config="vim /home/mmillis/.config/i3/config"
 alias idehelper="php artisan ide-helper:generate && php artisan ide-helper:meta && php artisan ide-helper:models"
 alias hosts="sudo vim /etc/hosts"
-alias ucivpn="sudo openconnect -u mmillis --authgroup=oit vpn.oit.uci.edu"
+alias ucivpn="sudo openconnect -u mmillis --authgroup=adcom vpn.oit.uci.edu"
 alias lart="lando artisan"
+alias l="lando"
+alias a="php artisan"
+alias pest="./vendor/bin/pest"
+alias switchphp7-4="sudo update-alternatives --set php /usr/bin/php7.4 && sudo update-alternatives --set phar /usr/bin/phar7.4 && sudo update-alternatives --set phar.phar /usr/bin/phar.phar7.4"
+alias switchphp8-0="sudo update-alternatives --set php /usr/bin/php8.0 && sudo update-alternatives --set phar /usr/bin/phar8.0 && sudo update-alternatives --set phar.phar /usr/bin/phar.phar8.0"
