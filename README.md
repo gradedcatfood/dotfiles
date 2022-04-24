@@ -1,5 +1,7 @@
 # dotfiles
 
+# Check flatpaks installed and /usr/local/bin symlinks
+
 ## Install i3 and i3blocks
     https://gist.github.com/boreycutts/6417980039760d9d9dac0dd2148d4783
     https://www.howtoinstall.me/ubuntu/18-04/i3blocks/
