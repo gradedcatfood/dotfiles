@@ -1,6 +1,31 @@
 # dotfiles
 
-# Check flatpaks installed and /usr/local/bin symlinks
+# Laravel Valet/trust SSL Certs
+
+    # Download hombrew
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/mmillis/.zshrc
+    sudo apt-get install build-essential
+    brew install gcc
+    brew install mkcert
+
+    # Make your cert
+    cd .valet/Certificates
+    mkcert orientation.local.uci.edu "*.orientation.local.uci.edu" localhost 127.0.0.1 ::1
+
+    # Point Valet config to new files
+    vim ~/.valet/Nginx/orientation.local.uci.edu.test
+
+    # Change block
+    ssl_certificate /home/mmillis/.valet/Certificates/orientation.local.uci.edu+4.pem;
+    ssl_certificate_key /home/mmillis/.valet/Certificates/orientation.local.uci.edu+4-key.pem;
+
+    # Restart Valet
+    valet restart
+
+    # Restart chrome
+
+
 
 ## Install i3 and i3blocks
     https://gist.github.com/boreycutts/6417980039760d9d9dac0dd2148d4783
