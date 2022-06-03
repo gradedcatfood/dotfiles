@@ -1,1 +1,3 @@
-rofi.theme: /home/mmillis/.local/share/rofi/themes/onedark.rasi
+#rofi.theme: /home/mmillis/.local/share/rofi/themes/onedark.rasi
+rofi.theme: /home/mmillis/.local/share/rofi/themes/spotlight-dark.rasi
+#rofi.theme: /home/mmillis/.config/rofi/minimal.rasi
